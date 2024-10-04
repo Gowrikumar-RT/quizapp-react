@@ -1,0 +1,23 @@
+[
+{
+    "id" : 1,
+    "question" : "Who is the Father of the Computer?",
+    "options" : ["Charles Babbage","Thomas Edison","Albert Einstein","Isaac Newton"],
+    "correctOption":"Charles Babbage"
+},
+
+{
+    "id" : 1,
+    "question" : "Who invented Compact Disc?",
+    "options" : ["James T. Russell","Fujio Masuoka","Thomas Edison","Martin Cooper"],
+    "correctOption":"James T. Russell"
+},
+
+{
+    "id" : 1,
+    "question" : "What is also known as a portable computer?",
+    "options" : ["Laptop","CPU","Monitor","Desktop"],
+    "correctOption":"Laptop"
+}
+
+]
